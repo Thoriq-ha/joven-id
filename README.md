@@ -4,9 +4,8 @@ Keagamaan Event Website (Keagamaan) with Laravel.
 ## Installation
 
 - Clone Laravel Event Repository:
-```
-https://github.com/aufaroot18/laravel-event.git
-```
+```[
+https://github.com/Thoriq-ha/joven-id.git
 - Install the composer dependencies:
 ```
 composer install
@@ -38,10 +37,4 @@ php artisan db:seed
 ```
 
 ## Demo
-Demo Website: -.
-
-## Authors
-Aufa Billah.
-
-## License
-GNU General Public License v3.0
+Demo Website: https://joven.konsulinaja.id/
